@@ -3,15 +3,15 @@
 																									
 Topic:	Problem: 	Done [yes or no] 																							
 																									
-Array	Reverse the array	<Y>																							
-Array	Find the maximum and minimum element in an array	<Y>																							
-Array	Find the "Kth" max and min element of an array 	<Y>																							
-Array	Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo	<Y>																							
-Array	Move all the negative elements to one side of the array 	<Y>																							
-Array	Find the Union and Intersection of the two sorted arrays.	<Y>																							
-Array	Write a program to cyclically rotate an array by one.	<Y>																							
-Array	find Largest sum contiguous Subarray [V. IMP]	<Y>																							
-Array	Minimise the maximum difference between heights [V.IMP]	<->																							
+Array	Reverse the array	<Y 13/03/2022>																							
+Array	Find the maximum and minimum element in an array	<Y 13/03/2022>																							
+Array	Find the "Kth" max and min element of an array 	<Y 14/03/2022>																							
+Array	Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo	<Y 14/03/2022>																							
+Array	Move all the negative elements to one side of the array 	<Y 14/03/2022>																							
+Array	Find the Union and Intersection of the two sorted arrays.	<Y 14/03/2022>																							
+Array	Write a program to cyclically rotate an array by one.	<Y 15/03/2022>																							
+Array	find Largest sum contiguous Subarray [V. IMP]	<Y 15/03/2022>																							
+Array	Minimise the maximum difference between heights [V.IMP]	<N>																							
 Array	Minimum no. of Jumps to reach end of an array	<->																							
 Array	find duplicate in an array of N+1 Integers	<->																							
 Array	Merge 2 sorted arrays without using Extra space.	<->																							
